@@ -16,9 +16,6 @@
 
 <h2>Initialize npm</h2>
 
-bash
-# npm i
-
 # install Dependencies In all Three folders 
 + npm i
 
@@ -30,4 +27,4 @@ npm start
 
 
 
-
+{ThankYou}
