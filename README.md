@@ -14,7 +14,6 @@
 [PROJECT LINK](https://ecommerce-fash-cha4w8csz-alokbhanawats-projects.vercel.app/)
 # PROJECT LINK
 
-[Click here to view the project](https://ecommerce-fash-cha4w8csz-alokbhanawats-projects.vercel.app/)
 
 
 
